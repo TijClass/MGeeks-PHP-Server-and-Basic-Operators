@@ -1,9 +1,9 @@
 <?php 
 //phpinfo(); 
-foreach($_SERVER as $key => $value){
+// foreach($_SERVER as $key => $value){
 
-    echo " $key = $value . <br/>";
-}
+//     echo " $key = $value . <br/>";
+// }
 echo "<pre>";
 print_r($_SERVER);
 echo "</pre>";
